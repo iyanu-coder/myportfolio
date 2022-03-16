@@ -1,0 +1,112 @@
+
+.skills .progress {
+  height: 50px;
+  display: block;
+  background: none;
+}
+
+.skills .progress .skill {
+  padding: 10px 0;
+  margin: 0 0 6px 0;
+  text-transform: uppercase;
+  display: block;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  color: #c0ccdd;
+}
+
+.skills .progress .skill .val {
+  float: right;
+  font-style: normal;
+}
+
+.skills .progress-bar-wrap {
+  background: #9ca0a5;
+}
+
+/* .skills .progress-bar {
+  width: 70px;
+  height: 10px;
+  transition: .9s;
+  background-color: #149ddd;
+} */
+
+#one{
+  width: 100%;
+  height: 10px;
+  transition: .9s;
+  background-color: #149ddd;
+}
+#two{
+  width: 100%;
+  height: 10px;
+  transition: .9s;
+  background-color: #149ddd;
+}
+#three{
+  width: 75%;
+  height: 10px;
+  transition: .9s;
+  background-color: #149ddd;
+}
+#four{
+  width: 80%;
+  height: 10px;
+  transition: .9s;
+  background-color: #149ddd;
+}
+#five{
+  width: 90%;
+  height: 10px;
+  transition: .9s;
+  background-color: #149ddd;
+}
+#six{
+  width: 70%;
+  height: 10px;
+  transition: .9s;
+  background-color: #149ddd;
+}
+
+#seven{
+  width: 70%;
+  height: 10px;
+  transition: .9s;
+  background-color: #149ddd;
+}
+#eight{
+  width: 80%;
+  height: 10px;
+  transition: .9s;
+  background-color: #149ddd;
+}
+#nine{
+  width: 70%;
+  height: 10px;
+  transition: .9s;
+  background-color: #149ddd;
+}
+#ten{
+  width: 70%;
+  height: 10px;
+  transition: .9s;
+  background-color: #149ddd;
+}
+#eleven{
+  width: 80%;
+  height: 10px;
+  transition: .9s;
+  background-color: #149ddd;
+}
+#twelve{
+  width: 80%;
+  height: 10px;
+  transition: .9s;
+  background-color: #149ddd;
+}
+
+
+  #skills{
+      margin-top: -240px;
+  }
+  
