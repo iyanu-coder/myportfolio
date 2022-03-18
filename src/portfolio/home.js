@@ -17,7 +17,7 @@ const Home =()=>{
 
                 <div className="col-sm-3">
                         <div>
-                            <img className="prof" src="images/man_smoke.jpg" />
+                            <img className="prof" src="images/profilepics.jfif" />
                         </div>
                 </div>
 
